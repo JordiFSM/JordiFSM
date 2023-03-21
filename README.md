@@ -1,4 +1,9 @@
-### Hi there 👋
+<div  id="header" align="center">
+    <img src="https://media.giphy.com/media/l4FGs5dbisGxm5b9e/giphy.gif">
+    <h1 align="Center"> Hi🫡, welcome to my GitHub profile. 😼 <br> 
+    I'm a JordiFSM computer ingeniering student of Tecnológico de Costa Rica</h1>
+    <h3 align="center"></h3>
+</div>
 
 <!--
 **JordiFSM/JordiFSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

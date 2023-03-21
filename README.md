@@ -1,8 +1,11 @@
 <div  id="header" align="center">
     <img src="https://media.giphy.com/media/l4FGs5dbisGxm5b9e/giphy.gif">
     <h1 align="Center"> Hi🫡, welcome to my GitHub profile. 😼 <br> 
-    I'm a JordiFSM computer engineering student at Tecnológico de Costa Rica</h1>
-    <h3 align="center">My name is Jordi Segura Madrigal. <br> I'm passionate about technologies, sports, and video games. <br> I have studied at the Tecnologico de Costa Rica for 4 years, and i am from Limón, Costa Rica. <br> I love to learn because one never stops learning </h3>
+</div>
+<div align="center">
+        <h2>About me
+        <h4>I'm a JordiFSM computer engineering student at Tecnológico de Costa Rica</h4> 
+        <h4 align="center">My name is Jordi Segura Madrigal. <br> I'm passionate about technologies, sports, and video games. <br> I have studied at the Tecnologico de         Costa Rica for 4 years, and i am from Limón, Costa Rica. <br> I love to learn because one never stops learning </h4>
 </div>
 <div id="Badges" align="Center">
     <a href="https://www.facebook.com/jordi.seguramadrigal.1" target="_blank">
@@ -48,11 +51,13 @@
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
-     <img src="![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)"/>
-     <img src="![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)"/>
-     <img src=""/>
-     <img src=""/>
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"/>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
     
     
 </div>

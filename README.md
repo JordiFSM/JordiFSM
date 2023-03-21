@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/l4FGs5dbisGxm5b9e/giphy.gif">
     <h1 align="Center"> Hi🫡, welcome to my GitHub profile. 😼 <br> 
     I'm a JordiFSM computer ingeniering student of Tecnológico de Costa Rica</h1>
-    <h3 align="center"></h3>
+    <h3 align="center">My name is Jordi Segura Madrigal. <br> I'm passionate of tecnologies, sports and videogames. <br> I have studied of Tecnologico de Costa Rica for 4 years, i am from Limón, Costa Rica.  </h3>
 </div>
 
 <!--

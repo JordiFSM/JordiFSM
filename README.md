@@ -2,8 +2,11 @@
     <img src="https://media.giphy.com/media/l4FGs5dbisGxm5b9e/giphy.gif">
     <h1 align="Center"> Hi🫡, welcome to my GitHub profile. 😼 <br> 
 </div>
+
+###
+    
 <div align="center">
-        <h2>About me
+        <h3> About me </h3>
         <h4>I'm a JordiFSM computer engineering student at Tecnológico de Costa Rica</h4> 
         <h4 align="center">My name is Jordi Segura Madrigal. <br> I'm passionate about technologies, sports, and video games. <br> I have studied at the Tecnologico de         Costa Rica for 4 years, and i am from Limón, Costa Rica. <br> I love to learn because one never stops learning </h4>
 </div>
@@ -59,8 +62,21 @@
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
     
-    
 </div>
+    
+ ---
+    
+### 📊 ACTIVITY 📊
+    
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=JordiFSM&show_icons=true&theme=blue-green"/>    
+</div>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordiFSM&hide_progress=true)](https://github.com/JordiFSM/github-readme-stats"/>  
+</div>
+
+ ### 
+    
 
 <!--
 **JordiFSM/JordiFSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

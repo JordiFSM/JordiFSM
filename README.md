@@ -4,6 +4,11 @@
     I'm a JordiFSM computer engineering student at Tecnológico de Costa Rica</h1>
     <h3 align="center">My name is Jordi Segura Madrigal. <br> I'm passionate about technologies, sports, and video games. <br> I have studied at the Tecnologico de Costa Rica for 4 years, and i am from Limón, Costa Rica. <br> I love to learn because one never stops learning </h3>
 </div>
+<div id="Badges" align="Center">
+    <a href="https://www.facebook.com/jordi.seguramadrigal.1" target="_blank">
+       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+   </a>
+</div>
 
 <!--
 **JordiFSM/JordiFSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

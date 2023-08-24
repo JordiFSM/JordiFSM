@@ -8,7 +8,7 @@
 <div align="center">
         <h3> About me </h3>
         <h4>I'm a JordiFSM computer science engineering student at Tecnológico de Costa Rica</h4> 
-        <h4 align="center">My name is Jordi Segura Madrigal. <br> I'm passionate about technologies, sports, and video games. <br> I have studied at the Tecnologico de         Costa Rica for 4 years, and i am from Limón, Costa Rica. <br> I love to learn because one never stops learning </h4>
+        <h4 align="center">My name is Jordi Segura Madrigal. <br> I'm passionate about technologies, sports and others <br> I have studied at the Tecnologico de         Costa Rica for 4 years, and i am from Limón, Costa Rica. <br> I love to learn because one never stops learning </h4>
 </div>
 <div id="Badges" align="Center">
     <a href="https://www.facebook.com/jordi.seguramadrigal.1" target="_blank">

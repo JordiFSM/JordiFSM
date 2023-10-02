@@ -11,7 +11,7 @@
         <h4 align="center">My name is Jordi Segura Madrigal. <br> I'm passionate about technologies, sports and others <br> I have studied at the Tecnologico de         Costa Rica for 4 years, and i am from Limón, Costa Rica. <br> I love to learn because one never stops learning </h4>
 </div>
 <div id="Badges" align="Center">
-    <a href="www.linkedin.com/in/jordiseguraMADRIGAL" target="_blank">
+    <a href="https://www.linkedin.com/in/jordiseguraMADRIGAL" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </div>

@@ -1,5 +1,5 @@
 <div  id="header" align="center">
-    <img src="https://media.giphy.com/media/l4FGs5dbisGxm5b9e/giphy.gif">
+    <img src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7">
     <h1 align="Center"> Hi, welcome to my GitHub profile. <br> 
 </div>
 
